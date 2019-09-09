@@ -1,0 +1,14 @@
+.cardstyle {
+    border: 1px solid black;
+    height: 400px;
+    width: 700px
+}
+
+.headerstyle {
+    border: 1px solid black;
+    height: 50px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

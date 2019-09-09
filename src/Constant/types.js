@@ -1,0 +1,14 @@
+export const USER = "USER";
+export const USERID = "USERID";
+export const LASTUSER = "LASTUSER";
+export const LOADING = "LOADING";
+export const ERROR_MESSAGES = "ERROR_MESSAGES";
+export const LOGOUT = "LOGOUT";
+export const REGISTER = "REGISTER";
+export const CUSTOMMESSAGE = "CUSTOMMESSAGE";
+export const PROFILEPICTURE = "PROFILEPICTURE";
+export const COVERPHOTO = "COVERPHOTO";
+export const TEMPPROFILEPICTURE = "TEMPPROFILEPICTURE";
+export const TEMPCOVERPHOTO = "TEMPCOVERPHOTO";
+export const VALIDATION = "VALIDATION";
+export const GETPROFILES = "GETPROFILES";
